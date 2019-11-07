@@ -1,0 +1,6 @@
+- install proto stuff
+- set up repo for this
+- share public keys for quick access
+- withershins / shins for generating doc (take examples from the scaleway server)
+- any keys for accessing apis ???
+- what else is on the scaleway server?
