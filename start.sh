@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+sudo apt install -y zip unzip
 sudo passwd multipass
 curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
 	    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
